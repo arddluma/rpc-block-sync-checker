@@ -1,0 +1,3 @@
+Ethereum:https://eth.llamarpc.com;https://rpc.ankr.com/eth;https://ethereum.publicnode.com
+Gnosis:https://rpc.gnosischain.com;https://xdai-rpc.gateway.pokt.network;https://rpc.gnosis.gateway.fm
+TestChainSync:https://rpc.gnosischain.com;https://eth.llamarpc.com
